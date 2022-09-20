@@ -4,6 +4,6 @@ print("Hello, " + name + "!")
 age = input("How old are you? ")
 print("You are " + age + " years old.")
 
-# Calculate how long until the user is 100 years old
-years = 100 - int(age)
-print("You will be 100 in " + str(years) + " years.")
+# Calculate how long until the user is 80 years old
+years = 80 - int(age)
+print("You will be 80 in " + str(years) + " years.")
