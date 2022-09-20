@@ -1,4 +1,4 @@
-print("Welcome to the program")
+print("Welcome to the program friend")
 name = input("What is your name? ")
 print("Hello, " + name + "!")
 
