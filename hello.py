@@ -9,4 +9,4 @@ print("You are " + age + " years old.")
 years = 50 - int(age)
 print("You will be 50 in " + str(years) + " years.")
 
-print("Farewell")
+print("Farewell, good sir")
